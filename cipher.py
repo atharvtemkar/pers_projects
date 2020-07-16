@@ -69,7 +69,7 @@ def vernam():
     print ("Plain Text: ",plain)
     print ("Keyword: ",key)
     print ("Cipher Text: ",cipher)
-    
+  
 
 print("Choose a method for encryption: ")
 print("1. Encrypt Caesar Cipher")
